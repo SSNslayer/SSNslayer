@@ -1,8 +1,4 @@
-## Hi, I'm SSNslayer 👋
-
 **Early-career malware developer and analyst, reverse engineer, and security researcher. Working on PoCs and hunting for my first CVE.**
-
-[![ANTHROPIC | SHIT COMPANY](https://mdwit.dev/anthropic-shit-company.svg)](https://mdwit.dev/anthropic/)
 
 ---
 
