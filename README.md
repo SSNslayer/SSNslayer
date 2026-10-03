@@ -36,18 +36,18 @@
 
 ## Contact
 
-<img align="left" alt="Session" src="https://img.shields.io/badge/Session-111?style=flat-square&logo=session&logoColor=bf91f3" />
-[![Session ID](https://img.shields.io/badge/055867bb6b83fa6d7788cef67002b1d3e6d2c0dce188257d469958f1d1a07e2f75-111?style=flat-square)](https://session.to/)
-<img align="left" alt="XMPP" src="https://img.shields.io/badge/XMPP-111?style=flat-square&logo=xmpp&logoColor=bf91f3" />
-[![XMPP JID](https://img.shields.io/badge/uacfucker@exploit.im-111?style=flat-square)](mailto:uacfucker@exploit.im)
+[![Session](https://img.shields.io/badge/Session-111?style=flat-square&logo=session&logoColor=bf91f3)](https://session.to/) [![XMPP](https://img.shields.io/badge/XMPP-111?style=flat-square&logo=xmpp&logoColor=bf91f3)](mailto:uacfucker@exploit.im)
+
+Session ID: `055867bb6b83fa6d7788cef67002b1d3e6d2c0dce188257d469958f1d1a07e2f75`
+XMPP JID: uacfucker@exploit.im
 
 ## Crypto
 
-| | Chain | Address |
-| :-- | :-- | :-- |
-| ![BTC](https://img.shields.io/badge/BTC-111?style=flat-square&logo=bitcoin&logoColor=bf91f3) | segwit | [bc1qe3efk5g99wykwvukp5w640zc6wh9cx276ghknq](https://mempool.space/address/bc1qe3efk5g99wykwvukp5w640zc6wh9cx276ghknq) |
-| ![ETH](https://img.shields.io/badge/ETH-111?style=flat-square&logo=ethereum&logoColor=bf91f3) | mainnet | [0xCC01E54d83392B1E89e7AddaDF600757cD65b550](https://etherscan.io/address/0xCC01E54d83392B1E89e7AddaDF600757cD65b550) |
-| ![USDT](https://img.shields.io/badge/USDT-111?style=flat-square&logo=tether&logoColor=bf91f3) | BEP20 | [0xCC01E54d83392B1E89e7AddaDF600757cD65b550](https://bscscan.com/address/0xCC01E54d83392B1E89e7AddaDF600757cD65b550) |
-| ![USDT](https://img.shields.io/badge/USDT-111?style=flat-square&logo=tether&logoColor=bf91f3) | TRC20 | [TDNQABFpfuGAgcufmc4Huy2tLYDTNX3fJ4](https://tronscan.org/#/address/TDNQABFpfuGAgcufmc4Huy2tLYDTNX3fJ4) |
-| ![SOL](https://img.shields.io/badge/SOL-111?style=flat-square&logo=solana&logoColor=bf91f3) | mainnet | [DZ9hxFyoYL3exDAUP5QrWCq9HyhJht93Y9WK1MB7L7k5](https://solscan.io/account/DZ9hxFyoYL3exDAUP5QrWCq9HyhJht93Y9WK1MB7L7k5) |
-| ![XMR](https://img.shields.io/badge/XMR-111?style=flat-square&logo=monero&logoColor=bf91f3) | monero | [441FopxLggKi5ttLTidJwogyN72TxAj76RBzxDn57mdpZeNtNumoHBFCGEpLXiw68rZg19yPaB4UfeTkEunB6398AtyHq7X](https://xmrchain.net/search?value=441FopxLggKi5ttLTidJwogyN72TxAj76RBzxDn57mdpZeNtNumoHBFCGEpLXiw68rZg19yPaB4UfeTkEunB6398AtyHq7X) |
+| | Address |
+| :-- | :-- |
+| ![BTC](https://img.shields.io/badge/BTC-111?style=flat-square&logo=bitcoin&logoColor=bf91f3) segwit | bc1qe3efk5g99wykwvukp5w640zc6wh9cx276ghknq |
+| ![ETH](https://img.shields.io/badge/ETH-111?style=flat-square&logo=ethereum&logoColor=bf91f3) mainnet | 0xCC01E54d83392B1E89e7AddaDF600757cD65b550 |
+| ![USDT](https://img.shields.io/badge/USDT-111?style=flat-square&logo=tether&logoColor=bf91f3) BEP20 | 0xCC01E54d83392B1E89e7AddaDF600757cD65b550 |
+| ![USDT](https://img.shields.io/badge/USDT-111?style=flat-square&logo=tether&logoColor=bf91f3) TRC20 | TDNQABFpfuGAgcufmc4Huy2tLYDTNX3fJ4 |
+| ![SOL](https://img.shields.io/badge/SOL-111?style=flat-square&logo=solana&logoColor=bf91f3) mainnet | DZ9hxFyoYL3exDAUP5QrWCq9HyhJht93Y9WK1MB7L7k5 |
+| ![XMR](https://img.shields.io/badge/XMR-111?style=flat-square&logo=monero&logoColor=bf91f3) monero | 441FopxLggKi5ttLTidJwogyN72TxAj76RBzxDn57mdpZeNtNumoHBFCGEpLXiw68rZg19yPaB4UfeTkEunB6398AtyHq7X |
