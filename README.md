@@ -2,7 +2,7 @@
 
 ---
 
-## Technology
+## Stack I'm using
 
 ![Languages:](https://img.shields.io/badge/-Languages-555?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-111?style=flat-square&logo=python&logoColor=bf91f3)
