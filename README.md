@@ -37,6 +37,7 @@
 ## Contact
 
 [![Session](https://img.shields.io/badge/Session-111?style=flat-square&logo=session&logoColor=bf91f3)](https://session.to/) Session ID: `055867bb6b83fa6d7788cef67002b1d3e6d2c0dce188257d469958f1d1a07e2f75`
+
 [![XMPP](https://img.shields.io/badge/XMPP-111?style=flat-square&logo=xmpp&logoColor=bf91f3)](mailto:uacfucker@exploit.im) XMPP JID: `uacfucker@exploit.im`
 
 ## Crypto
