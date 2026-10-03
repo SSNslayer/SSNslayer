@@ -38,12 +38,10 @@
 
 ## Crypto
 
-| | Address |
-| :-- | :-- |
-| ![BTC](https://img.shields.io/badge/BTC-200?style=flat-square&logo=bitcoin&logoColor=bf91f3)     | bc1qe3efk5g99wykwvukp5w640zc6wh9cx276ghknq |
-| ![ETH](https://img.shields.io/badge/ETH-200?style=flat-square&logo=ethereum&logoColor=bf91f3)     | 0xCC01E54d83392B1E89e7AddaDF600757cD65b550 |
-| ![USDT](https://img.shields.io/badge/USDT-BEP20-500?style=flat-square&logo=tether&logoColor=bf91f3)    | 0xCC01E54d83392B1E89e7AddaDF600757cD65b550 |
-| ![USDT](https://img.shields.io/badge/USDT-TRC20-500?style=flat-square&logo=tether&logoColor=bf91f3)    | TDNQABFpfuGAgcufmc4Huy2tLYDTNX3fJ4 |
-| ![SOL](https://img.shields.io/badge/SOL-200?style=flat-square&logo=solana&logoColor=bf91f3)    | DZ9hxFyoYL3exDAUP5QrWCq9HyhJht93Y9WK1MB7L7k5 |
-| ![XMR](https://img.shields.io/badge/XMR-200?style=flat-square&logo=monero&logoColor=bf91f3)     | 441FopxLggKi5ttLTidJwogyN72TxAj76RBzxDn57mdpZeNtNumoHBFCGEpLXiw68rZg19yPaB4UfeTkEunB6398AtyHq7X |
+ ![BTC](https://img.shields.io/badge/BTC-200?style=flat-square&logo=bitcoin&logoColor=bf91f3)      bc1qe3efk5g99wykwvukp5w640zc6wh9cx276ghknq 
+ ![ETH](https://img.shields.io/badge/ETH-200?style=flat-square&logo=ethereum&logoColor=bf91f3)     0xCC01E54d83392B1E89e7AddaDF600757cD65b550
+ ![USDT](https://img.shields.io/badge/USDT-BEP20-500?style=flat-square&logo=tether&logoColor=bf91f3)    0xCC01E54d83392B1E89e7AddaDF600757cD65b550
+ ![USDT](https://img.shields.io/badge/USDT-TRC20-500?style=flat-square&logo=tether&logoColor=bf91f3)    TDNQABFpfuGAgcufmc4Huy2tLYDTNX3fJ4
+ ![SOL](https://img.shields.io/badge/SOL-200?style=flat-square&logo=solana&logoColor=bf91f3)    DZ9hxFyoYL3exDAUP5QrWCq9HyhJht93Y9WK1MB7L7k5
+ ![XMR](https://img.shields.io/badge/XMR-200?style=flat-square&logo=monero&logoColor=bf91f3)     441FopxLggKi5ttLTidJwogyN72TxAj76RBzxDn57mdpZeNtNumoHBFCGEpLXiw68rZg19yPaB4UfeTkEunB6398AtyHq7X
 
